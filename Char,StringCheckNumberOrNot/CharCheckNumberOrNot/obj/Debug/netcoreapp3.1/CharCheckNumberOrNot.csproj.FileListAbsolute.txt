@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\bin\Debug\netcoreapp3.1\CharCheckNumberOrNot.exe
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\bin\Debug\netcoreapp3.1\CharCheckNumberOrNot.deps.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\bin\Debug\netcoreapp3.1\CharCheckNumberOrNot.runtimeconfig.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\bin\Debug\netcoreapp3.1\CharCheckNumberOrNot.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\bin\Debug\netcoreapp3.1\CharCheckNumberOrNot.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\bin\Debug\netcoreapp3.1\CharCheckNumberOrNot.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CharCheckNumberOrNot\CharCheckNumberOrNot\obj\Debug\netcoreapp3.1\CharCheckNumberOrNot.genruntimeconfig.cache

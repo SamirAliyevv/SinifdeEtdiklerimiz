@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\bin\Debug\netcoreapp3.1\CutStringIndex.exe
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\bin\Debug\netcoreapp3.1\CutStringIndex.deps.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\bin\Debug\netcoreapp3.1\CutStringIndex.runtimeconfig.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\bin\Debug\netcoreapp3.1\CutStringIndex.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\bin\Debug\netcoreapp3.1\CutStringIndex.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\bin\Debug\netcoreapp3.1\CutStringIndex.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CutStringIndex\CutStringIndex\obj\Debug\netcoreapp3.1\CutStringIndex.genruntimeconfig.cache

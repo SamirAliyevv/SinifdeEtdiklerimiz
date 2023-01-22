@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\bin\Debug\netcoreapp3.1\FindNumberList.exe
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\bin\Debug\netcoreapp3.1\FindNumberList.deps.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\bin\Debug\netcoreapp3.1\FindNumberList.runtimeconfig.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\bin\Debug\netcoreapp3.1\FindNumberList.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\bin\Debug\netcoreapp3.1\FindNumberList.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\bin\Debug\netcoreapp3.1\FindNumberList.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindNumberList\FindNumberList\obj\Debug\netcoreapp3.1\FindNumberList.genruntimeconfig.cache

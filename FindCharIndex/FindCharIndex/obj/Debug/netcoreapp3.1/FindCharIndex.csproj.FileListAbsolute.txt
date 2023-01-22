@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\bin\Debug\netcoreapp3.1\FindCharIndex.exe
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\bin\Debug\netcoreapp3.1\FindCharIndex.deps.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\bin\Debug\netcoreapp3.1\FindCharIndex.runtimeconfig.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\bin\Debug\netcoreapp3.1\FindCharIndex.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\bin\Debug\netcoreapp3.1\FindCharIndex.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\bin\Debug\netcoreapp3.1\FindCharIndex.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\FindCharIndex\FindCharIndex\obj\Debug\netcoreapp3.1\FindCharIndex.genruntimeconfig.cache

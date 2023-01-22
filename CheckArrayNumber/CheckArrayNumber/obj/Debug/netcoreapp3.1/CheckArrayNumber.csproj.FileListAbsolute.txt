@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\bin\Debug\netcoreapp3.1\CheckArrayNumber.exe
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\bin\Debug\netcoreapp3.1\CheckArrayNumber.deps.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\bin\Debug\netcoreapp3.1\CheckArrayNumber.runtimeconfig.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\bin\Debug\netcoreapp3.1\CheckArrayNumber.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\bin\Debug\netcoreapp3.1\CheckArrayNumber.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\bin\Debug\netcoreapp3.1\CheckArrayNumber.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.dll
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.pdb
+C:\Users\ASUS\Desktop\Sinifde etdiklerimiz\CheckArrayNumber\CheckArrayNumber\obj\Debug\netcoreapp3.1\CheckArrayNumber.genruntimeconfig.cache
